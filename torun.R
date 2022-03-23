@@ -1,7 +1,7 @@
 rm(list = ls())
 
 # Set your work directory
-setwd("/Users/yangyuan/Desktop/BSS_star-main")
+# setwd("/Users/yangyuan/Desktop/BSS_star-main")
 source("minBIC_03182022.R")
 source("fit0norm_leastSquares.R")
 source("BIC_cont.R")
