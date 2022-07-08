@@ -9,7 +9,7 @@ BIC_logistic.R: the function to minimize BIC for binary data sets.
 
 0norm_linear.R: the function to solve l_0 norm penalized least squares problem for linear models.
 
-auto-mog.data: continuous data set 2 in the paper. 
+auto-mpg.data: continuous data set 2 in the paper. 
 RealEstateValuationDataSet.xlsx: continuous data set 3 in the paper.
 
 Indian Liver Patient Dataset (ILPD).csv: binary data set 1 in the paper.
